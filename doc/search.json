@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Travis Anger- Mechatronics Engineer",
+    "section": "",
+    "text": "yo whats good fam-alam\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "insert text about cool things and passions"
+  },
+  {
+    "objectID": "prog_lang.html",
+    "href": "prog_lang.html",
+    "title": "Programming Languages",
+    "section": "",
+    "text": "________________________________________________________________________________________________________________\nC\nC++\nVHDL\nLadder Logic\nPLC\nLabview\nmyRIO"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "___________________________________________________________________________________________________________________\nelectronics portfolio"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Resume"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "hash": "1dd340b80b5151686d549b99a5d9491d",
+  "result": {
+    "markdown": "---\ntitle: \"Travis Anger- Mechatronics Engineer\"\nauthor: \"Travis Anger\"\nformat: html\neditor: visual\n---\n\n\nyo whats good fam-alam\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
