@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Travis Anger - Mechatronics Engineer",
-    "section": "",
-    "text": "yo whats good fam-alam\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
     "text": "insert text about cool things and passions\nmajor in Mechatronics and getting a minor in comp sci"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Travis Anger - Mechatronics Engineer",
+    "section": "",
+    "text": "yo whats good fam-alam\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "prog_lang.html",

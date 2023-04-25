@@ -1,10 +1,12 @@
 ---
 title: "Resume"
-description:  "California State University Channel Islands"
+description: "Education: California State University Channel Islands"
 ---
 
 ------------------------------------------------------------------------
 
-[Resume](https://drive.google.com/file/d/1ZdINguYOQkHtkw_2IwilmrC4DHD5JVcc/view?usp=sharing)
+![](images/Travis%20Anger%20Resume-01.pdf){fig-align="center" width="7.5in" height="10.1in"}
 
-![](images/Travis%20Anger%20Resume-01.pdf){fig-align="center" width="7.5in" height="15in"}
+------------------------------------------------------------------------
+
+[Resume](https://drive.google.com/file/d/1ZdINguYOQkHtkw_2IwilmrC4DHD5JVcc/view?usp=sharing)

@@ -1,5 +1,5 @@
 ---
-title: "Travis Anger- Mechatronics Engineer"
+title: "Travis Anger - Mechatronics Engineer"
 author: "Travis Anger"
 format: html
 editor: visual

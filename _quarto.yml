@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: doc
+  output-dir: docs
 
 website:
   title: "Travis Anger Web"
@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - text: Resume
+      - text: Miscellaneous
         menu:
           - resume.qmd
           - projects.qmd

@@ -3,3 +3,5 @@ title: "About Me"
 ---
 
 insert text about cool things and passions
+
+major in Mechatronics and getting a minor in comp sci
