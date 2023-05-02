@@ -5,6 +5,6 @@ format: html
 editor: visual
 ---
 
-yo whats good fam-alam
+![](images/9c0206ee42d872fef14ec8e7af46d5bb.jpeg){fig-align="center" width="1000"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a third year Mechatronics major expecting to graduate in the spring of 2024. My major consists of classes in Computer Science, Electronics, Mechanical Engineering, Mathematics, Physics and Robotics. I am also starting a minor in Computer Science.

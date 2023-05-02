@@ -1,21 +1,39 @@
 ---
-title: "Programming Languages"
+title: "Languages"
 ---
 
 ------------------------------------------------------------------------
+
+Programming:
+
 
 C
 
 C++
 
-VHDL (FPGA)
+Python
 
-Ladder Logic (PLC)
+RStudio
+
+VHDL (FPGA)
 
 Labview (myRIO)
 
-Ignition SCADA
+Ladder Logic:
+  - CCW
+  - Studio500
+  - Studio5000
+
+
+SCADA:
+  - Ignition
+  - FactoryTalk Machine Edition
 
 Factory I/O
 
-Java
+------------------------------------------------------------------------
+
+Spoken:
+
+
+Intermediary French

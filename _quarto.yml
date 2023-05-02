@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Travis Anger Web"
+  title: "Travis Anger"
   navbar:
     background: "#00688b"
     left:
@@ -15,6 +15,7 @@ website:
           - resume.qmd
           - projects.qmd
           - prog_lang.qmd
+          - research.qmd
 
 format:
   html:

@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
-insert text about cool things and passions
+I am 21 years of age, I really enjoy hands on R&D projects, extremely interested in the betterment of the environment and anything to do in the robotics environment.
 
-major in Mechatronics and getting a minor in comp sci
+I am not sure if I want to go to graduate school for a masters after my bachelors or if I want to go straight into the industry for a few years and then have the possibility to have a job pay for my masters.
+
+My hobbies include video editing, playing video games, free running whenever I have the chance, and working out at the gym. Since I am training for running again, I do have a hope of completing a marathon at some point in my life but I will probably start out with smaller 5k's or half marathons.
