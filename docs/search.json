@@ -32,7 +32,7 @@
     "href": "research.html",
     "title": "Undergraduate Research",
     "section": "",
-    "text": "I am currently working under Professor Vida Vakillian, she is one of the Department Heads of Mechatronics at CSUCI. The research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).\nSo far I have learned:\nMicro 820 controller with CCW\nCompactLogix Controller 1769-LI18ER-BB1B with Studio5000"
+    "text": "I am currently working under Professor Vida Vakillian. She is one of the Department Heads of Mechatronics at CSUCI and the research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).\nSo far I have learned:\nMicro 820 controller with CCW\nCompactLogix Controller 1769-LI18ER-BB1B with Studio5000"
   },
   {
     "objectID": "resume.html",
@@ -40,5 +40,12 @@
     "title": "Resume",
     "section": "",
     "text": "Resume"
+  },
+  {
+    "objectID": "lang.html",
+    "href": "lang.html",
+    "title": "Languages",
+    "section": "",
+    "text": "Programming:\nC\nC++\nPython\nRStudio\nVHDL (FPGA)\nLabview (myRIO)\nLadder Logic:\n\nCCW\nStudio500\nStudio5000\n\nSCADA:\n\nIgnition\nFactoryTalk Machine Edition\n\nFactory I/O\n\nSpoken:\nIntermediary French"
   }
 ]

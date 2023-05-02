@@ -14,7 +14,7 @@ website:
         menu:
           - resume.qmd
           - projects.qmd
-          - prog_lang.qmd
+          - lang.qmd
           - research.qmd
 
 format:
