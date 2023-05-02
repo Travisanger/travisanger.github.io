@@ -6,7 +6,6 @@ title: "Languages"
 
 Programming:
 
-
 C
 
 C++
@@ -20,20 +19,23 @@ VHDL (FPGA)
 Labview (myRIO)
 
 Ladder Logic:
-  - CCW
-  - Studio500
-  - Studio5000
 
+-   CCW
+
+-   Studio500
+
+-   Studio5000
 
 SCADA:
-  - Ignition
-  - FactoryTalk Machine Edition
+
+-   Ignition
+
+-   FactoryTalk Machine Edition
 
 Factory I/O
 
 ------------------------------------------------------------------------
 
 Spoken:
-
 
 Intermediary French

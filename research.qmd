@@ -2,7 +2,7 @@
 title: "Undergraduate Research"
 ---
 
-I am currently working under Professor Vida Vakillian, she is one of the Department Heads of Mechatronics at CSUCI. The research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).
+I am currently working under Professor Vida Vakillian. She is one of the Department Heads of Mechatronics at CSUCI and the research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).
 
 So far I have learned:
 
