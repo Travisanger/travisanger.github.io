@@ -15,5 +15,3 @@ So far I have learned:
 -   How to incorporate SCADA into a PLC system via an internet connection
 
 ------------------------------------------------------------------------
-
-Previous:

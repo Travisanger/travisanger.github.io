@@ -25,14 +25,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Electronics Portfolio\n\n\n\n\n\n\n325 GWAR\n\n\n\n\n\n\nLEO Rover fixing"
+    "text": "Electronics Portfolio\n\n\n\n\n\n\n325 GWAR"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Undergraduate Research",
     "section": "",
-    "text": "Current:\nI am working under Professor Vida Vakillian, one of the Department Heads of Mechatronics at CSUCI, and the research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).\nSo far I have learned:\nMicro 820 controller with CCW\nCompactLogix Controller 1769-LI18ER-BB1B with Studio5000\n\nPrevious:"
+    "text": "Current:\nI am working with Professor Vida Vakillian, one of the Department Heads of Mechatronics at CSUCI, and the research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).\nSo far I have learned:\n\nMicro 820 controller with CCW\nCompactLogix Controller 1769-LI18ER-BB1B with Studio5000\nHow to incorporate SCADA into a PLC system via an internet connection"
   },
   {
     "objectID": "resume.html",

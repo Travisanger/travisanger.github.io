@@ -12,4 +12,4 @@ Electronics Portfolio
 
 325 GWAR
 
-![](images/EMEC_325_gwar.pdf){fig-align="center"}
+![](images/EMEC_325_gwar.pdf){fig-align="center" width="7.5in" height="10.1in"}
