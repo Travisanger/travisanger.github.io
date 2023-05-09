@@ -8,18 +8,14 @@ Electronics Portfolio
 
 ![](images/PHYS_310_Final_Portfolio.pdf){fig-align="center" width="7.5in" height="10.1in"}
 
-[Portfolio](https://drive.google.com/file/d/1X0pJut2U-fanxbmMh_DAW4eWoptraoZ1/view?usp=share_link)
-
 ------------------------------------------------------------------------
 
 325 GWAR
 
+![](images/EMEC_325_gwar.pdf){fig-align="center"}
+
 ------------------------------------------------------------------------
 
 LEO Rover fixing
-
-------------------------------------------------------------------------
-
-Media Literacy Website
 
 ------------------------------------------------------------------------

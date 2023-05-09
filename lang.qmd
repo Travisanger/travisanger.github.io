@@ -14,9 +14,11 @@ Python
 
 RStudio
 
-VHDL (FPGA)
+Linux Ubuntu
 
-Labview (myRIO)
+VHDL (Quartus II FPGA)
+
+LabView (myRIO)
 
 Ladder Logic:
 
@@ -33,6 +35,8 @@ SCADA:
 -   FactoryTalk Machine Edition
 
 Factory I/O
+
+MATLAB
 
 ------------------------------------------------------------------------
 

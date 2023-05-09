@@ -2,10 +2,18 @@
 title: "Undergraduate Research"
 ---
 
-I am currently working under Professor Vida Vakillian. She is one of the Department Heads of Mechatronics at CSUCI and the research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).
+Current:
+
+I am working with Professor Vida Vakillian, one of the Department Heads of Mechatronics at CSUCI, and the research I am doing is obtaining a better knowledge of Programmable Logic Controllers (PLC).
 
 So far I have learned:
 
-Micro 820 controller with CCW
+-   Micro 820 controller with CCW
 
-CompactLogix Controller 1769-LI18ER-BB1B with Studio5000
+-   CompactLogix Controller 1769-LI18ER-BB1B with Studio5000
+
+-   How to incorporate SCADA into a PLC system via an internet connection
+
+------------------------------------------------------------------------
+
+Previous:
